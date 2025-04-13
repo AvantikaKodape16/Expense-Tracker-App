@@ -2,7 +2,11 @@
 A simple and user-friendly web app to manage your personal finances by tracking your income and expenses. Built using HTML, CSS, and JavaScript, with support for localStorage and real-time updates.
 
 
+LIVE : https://expense-tracker-ak.netlify.app
+
+
 🚀 Features
+
 ✅ Add Transactions: Enter income or expenses with description and amount
 
 📊 Real-Time Balance: Automatically updates your current balance
@@ -23,6 +27,7 @@ A simple and user-friendly web app to manage your personal finances by tracking 
 
 
 🛠️ Tech Stack
+
 HTML5 – Markup structure
 
 CSS3 – Styling and responsive layout
